@@ -146,7 +146,7 @@ DEPENDENCIES
   haml (~> 4.0.5)
   jbuilder (~> 2.0)
   jquery-rails
-  paperclip
+  paperclip (~> 4.3.0)
   rails (= 4.1.8)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
