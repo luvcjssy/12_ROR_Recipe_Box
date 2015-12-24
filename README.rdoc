@@ -26,3 +26,15 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+================================
+
+A recipe application with users and recipes. Each recipe has multiple ingredients and multiple steps from 3 different models. We achieve this by creating nested forms using the Cocoon gem. 
+
+List gem used:
+- gem 'devise'
+- gem 'cocoon'
+- gem 'paperclip'
+- gem 'bootstrap-sass'
+- gem 'simple_form'
+- gem 'haml'
